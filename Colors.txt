@@ -1,0 +1,5 @@
+6096B4 - Website Bg Color
+567189 - Border Color
+EEE9DA - Text Color
+6096B4 - Subhedding Bg Color
+BDCDD6 - Subhedding Text Color

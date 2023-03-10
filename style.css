@@ -1,0 +1,98 @@
+body {
+    background-color: #93BFCF;
+    border-style: inset;
+    border-width: 10px;
+    border-radius: 20px;
+    border-color: #567189;
+}
+
+.a {
+    color: #EEE9DA;
+    align-self: center;
+}
+
+.Title {
+    color: #EEE9DA;
+    text-align: center;
+    font-size: 50px;
+}
+
+.TitleForm {
+    color: #567189;
+    border-style: dotted;
+    border-width: 10px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+.SubHeading {
+    border-style: inset;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: #567189;
+    margin-left: 5%;
+    width: 15%;
+    background-color: #6096B4;
+    color: #EEE9DA;
+}
+
+.AboutMeImg {
+    width: 25%;
+    margin-left: 60%;
+    margin-left: 60%;
+    margin-bottom: 110%;
+}
+
+.AboutMeP {
+    color: #EEE9DA;
+    font-family: monospace;
+    border-style: solid;
+    border-color: #567189;
+    border-radius: 20px;
+    border-width: 5px;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.ExpirenceP {
+    color: #EEE9DA;
+    font-family: monospace;
+    border-style: solid;
+    border-color: #567189;
+    border-radius: 20px;
+    border-width: 5px;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+
+}
+
+.CertificationsP {
+    color: #EEE9DA;
+    font-family: monospace;
+    border-style: solid;
+    border-color: #567189;
+    border-radius: 20px;
+    border-width: 5px;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: left;
+}
+
+.Title:hover {
+    color: #EEE9DA;
+    text-align: center;
+    font-size: 70px; 
+}
+
+.Certificate {
+    border-color: #567189;
+    border-style: solid;
+    border-width: 10px;
+    width: 40%;
+    margin-left: 30%;
+}
